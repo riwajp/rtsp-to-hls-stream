@@ -104,6 +104,6 @@ dist
 .tern-port
 
 # HLS files
-./server/videos/ipcam/*.m3u8
-./server/videos/ipcam/*.ts
+/server/videos/ipcam/*.m3u8
+/server/videos/ipcam/*.ts
 
